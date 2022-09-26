@@ -1,0 +1,233 @@
+,rental_id,building_id,rent,bedrooms,bathrooms,size_sqft,min_to_subway,floor,building_age_yrs,no_fee,has_roofdeck,has_washer_dryer,has_doorman,has_elevator,has_dishwasher,has_patio,has_gym,neighborhood,submarket,borough
+6,10524,60898078,1950,1.0,1,950,1,3.0,83,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+8,5465,73060494,3500,1.0,1,996,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+21,5259,2540088,1725,1.0,1,800,1,2.0,89,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+25,9736,5154242,1700,1.0,1,730,10,3.0,7,0,0,0,0,0,0,0,0,Briarwood,Northeast Queens,Queens
+59,3545,70847172,3100,1.0,1,787,6,3.0,9,1,1,0,1,1,0,1,0,Long Island City,Northwest Queens,Queens
+107,8385,8217653,2695,1.0,1,875,8,15.0,56,1,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+121,9386,9968115,2200,1.0,1,886,8,4.0,58,1,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+147,8402,58994300,1850,1.0,1,1000,2,1.0,11,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+197,10963,60837572,1900,1.0,1,900,3,7.0,61,1,0,0,0,0,0,0,0,Elmhurst,Central Queens,Queens
+203,6743,66130763,2200,1.0,1,665,27,4.0,12,1,0,0,0,0,0,0,0,Kew Gardens Hills,Northeast Queens,Queens
+214,8457,57263590,2000,1.0,1,482,8,4.0,86,0,0,0,0,0,0,0,0,Corona,Central Queens,Queens
+217,5844,71772648,2350,1.0,1,600,5,6.0,12,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+222,6754,30171847,3450,1.0,1,888,2,6.0,8,0,0,1,1,1,1,0,1,Long Island City,Northwest Queens,Queens
+261,9307,58867322,1450,1.0,1,700,8,3.0,92,0,0,0,0,0,0,0,0,Richmond Hill,South Queens,Queens
+269,3516,7860298,1975,1.0,1,700,43,20.0,42,0,0,0,0,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+306,5133,95553706,2000,1.0,1,750,9,5.0,15,0,0,1,0,0,1,0,0,Kew Gardens,Northeast Queens,Queens
+318,10885,73060494,3400,1.0,1,1000,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+320,3253,13753727,3000,1.0,1,630,6,20.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+322,6838,73060494,2535,1.0,1,570,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+346,9816,73060494,2945,1.0,1,940,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+352,10312,89178144,1900,1.0,1,678,5,4.0,64,1,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+364,4281,6383223,1700,1.0,1,575,12,3.0,16,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+377,3369,72335059,1995,1.0,1,600,14,1.0,68,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+380,9365,75433258,1800,1.0,1,700,1,3.0,87,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+401,8545,1449174,1835,1.0,1,600,4,10.0,86,1,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+407,5208,98220656,1625,1.0,1,815,4,7.0,52,0,0,0,0,0,0,0,0,Jamaica Estates,South Queens,Queens
+426,11320,70847172,3450,1.0,1,800,6,9.0,9,1,0,1,1,1,0,0,0,Long Island City,Northwest Queens,Queens
+430,4997,51620973,1625,1.0,1,620,18,4.0,85,1,0,0,0,0,0,0,0,Queens Village,South Queens,Queens
+441,5614,13753727,3275,1.0,1,630,6,15.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+452,7546,39477811,2500,1.0,1,700,15,4.0,116,0,0,1,1,1,0,0,0,Astoria,Northwest Queens,Queens
+455,2928,76717231,3410,1.0,1,759,6,5.0,3,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+485,3374,93129760,1650,1.0,1,750,4,1.0,90,0,0,0,0,0,0,0,0,Woodhaven,South Queens,Queens
+504,9693,23781472,2295,1.0,1,863,11,3.0,8,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+514,8969,69966305,1700,1.0,1,550,2,27.0,87,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+530,7009,73060494,2595,1.0,1,752,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+542,9005,81008961,1550,1.0,1,710,4,2.0,21,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+544,6303,73060494,2550,1.0,1,650,9,3.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+554,4787,40556781,3300,1.0,1,787,43,4.0,5,0,0,0,1,0,0,0,0,Long Island City,Northwest Queens,Queens
+555,5616,13753727,2955,1.0,1,630,6,16.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+566,7371,69721022,1575,1.0,1,770,1,3.0,60,0,0,0,0,0,0,0,0,Jamaica Estates,South Queens,Queens
+589,5779,56449159,2550,1.0,1,750,3,16.0,6,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+617,1969,73060494,2825,1.0,1,651,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+619,1094,8030945,2995,1.0,1,700,2,2.0,9,1,1,1,0,0,1,0,1,Long Island City,Northwest Queens,Queens
+633,8687,43661513,2395,1.0,1,700,4,3.0,9,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+661,2639,97910181,1950,1.0,1,850,7,3.0,61,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+665,1107,76832199,2650,1.0,1,985,5,5.0,71,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+698,8909,60898078,1950,1.0,1,950,1,3.0,83,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+731,5059,91033682,2150,1.0,1,800,3,3.0,80,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+739,1970,73060494,3500,1.0,1,988,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+741,8863,13243732,1465,1.0,1,470,2,2.0,85,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+746,9643,33076545,2100,1.0,1,500,2,3.0,86,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+766,3185,83371097,2870,1.0,1,673,3,24.0,16,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+767,8025,73060494,2395,1.0,1,600,9,2.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+792,5458,73060494,2395,1.0,1,700,9,3.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+805,8235,15244377,1700,1.0,1,600,17,14.0,20,1,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+841,11009,64083931,1600,1.0,1,650,0,3.0,95,1,0,0,0,0,0,0,0,Ridgewood,Central Queens,Queens
+852,1971,73060494,3500,1.0,1,996,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+914,7764,40040852,2000,1.0,1,708,10,2.0,55,1,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+928,5185,34046696,2700,1.0,1,720,9,7.0,4,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1003,7575,92325053,3500,1.0,1,1178,2,5.0,96,1,0,0,1,1,0,0,1,Long Island City,Northwest Queens,Queens
+1104,11004,28174674,1825,1.0,1,680,13,2.0,52,1,0,0,0,0,0,0,0,Jackson Heights,Central Queens,Queens
+1118,2006,31244061,2950,1.0,1,850,3,1.0,6,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+1123,7452,72514135,1590,1.0,1,700,7,5.0,51,0,0,0,0,0,0,0,0,Woodside,Central Queens,Queens
+1144,2177,76832199,2600,1.0,1,1031,5,2.0,71,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+1253,6222,90878438,1450,1.0,1,575,1,7.0,61,0,0,0,0,0,0,0,0,Jamaica Estates,South Queens,Queens
+1258,8003,13753727,3325,1.0,1,629,6,16.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+1283,8766,22592053,1500,1.0,1,650,3,4.0,86,0,0,0,0,0,0,0,0,Ridgewood,Central Queens,Queens
+1288,10731,93245382,2745,1.0,1,700,1,6.0,2,1,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+1295,8354,73060494,2535,1.0,1,615,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1319,3186,83371097,2907,1.0,1,706,3,5.0,16,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+1338,4559,68756974,1950,1.0,1,715,10,1.0,84,1,1,0,1,1,1,1,1,Kew Gardens,Northeast Queens,Queens
+1380,8928,20789601,2800,1.0,1,640,2,11.0,9,0,0,0,0,0,1,0,0,Long Island City,Northwest Queens,Queens
+1413,11154,28415071,1725,1.0,1,720,2,2.0,14,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+1447,8520,99664681,2600,1.0,1,705,6,2.0,8,0,0,0,0,0,1,0,0,Astoria,Northwest Queens,Queens
+1530,3636,61943887,2000,1.0,1,650,3,6.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1559,1952,76717231,3160,1.0,1,721,6,20.0,3,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+1579,11166,8217653,2650,1.0,1,875,8,16.0,56,1,1,1,0,1,1,0,0,Forest Hills,Central Queens,Queens
+1602,112,90688317,1750,1.0,1,720,2,2.0,15,0,1,0,1,1,1,0,0,Forest Hills,Central Queens,Queens
+1638,2399,10606754,2000,1.0,1,900,4,3.0,70,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+1642,10793,31096071,1750,1.0,1,685,17,3.0,57,1,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+1650,9038,50196965,1750,1.0,1,850,3,4.0,75,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+1663,6697,10442003,1550,1.0,1,600,3,2.0,87,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+1683,5648,73060494,2535,1.0,1,575,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1694,9419,83371097,3139,1.0,1,706,3,18.0,16,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+1696,5894,15728012,1950,1.0,1,480,10,2.0,1,1,0,0,0,0,0,0,0,Ridgewood,Central Queens,Queens
+1710,8183,6338629,1650,1.0,1,750,4,1.0,20,0,0,0,0,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+1726,10343,54063845,1800,1.0,1,800,12,3.0,65,0,0,0,0,0,0,0,0,Jackson Heights,Central Queens,Queens
+1756,5895,24692593,3300,1.0,1,762,10,7.0,8,1,1,0,1,1,0,0,1,Long Island City,Northwest Queens,Queens
+1785,9876,66130763,2200,1.0,1,665,27,4.0,12,1,0,0,0,0,0,0,0,Kew Gardens Hills,Northeast Queens,Queens
+1805,8164,73060494,3495,1.0,1,985,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1809,3204,13753727,3000,1.0,1,629,6,19.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+1822,6380,37873879,2200,1.0,1,487,3,4.0,6,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+1839,3853,33994391,3200,1.0,1,875,3,10.0,20,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+1869,8684,62661588,1850,1.0,1,550,2,2.0,98,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1871,1968,73060494,2800,1.0,1,591,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1882,1965,73060494,2650,1.0,1,648,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+1912,9390,89973581,1650,1.0,1,809,18,1.0,53,1,0,0,1,0,0,0,0,Flushing,Northeast Queens,Queens
+1938,4096,15165658,1650,1.0,1,820,2,3.0,87,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+1948,2646,64067963,1500,1.0,1,621,6,4.0,13,0,0,0,0,0,0,0,0,Briarwood,Northeast Queens,Queens
+2000,629,29311550,3350,1.0,1,600,4,7.0,86,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2060,3903,79476744,1800,1.0,1,850,1,2.0,57,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+2075,5754,13753727,3125,1.0,1,691,6,3.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2093,8360,51620973,1350,1.0,1,400,18,4.0,85,1,0,0,0,0,0,0,0,Queens Village,South Queens,Queens
+2116,8993,52635854,1450,1.0,1,550,20,4.0,85,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+2156,10246,63431782,1900,1.0,1,700,5,1.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2174,10579,76665733,2600,1.0,1,812,6,1.0,61,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+2214,7017,73060494,2750,1.0,1,570,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2289,1911,2309068,2900,1.0,1,786,1,5.0,10,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2301,1175,84618592,2700,1.0,1,699,14,7.0,9,1,1,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2302,5423,33648275,2200,1.0,1,1000,1,6.0,79,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+2309,7763,40040852,1925,1.0,1,660,10,1.0,55,1,1,1,1,1,1,0,1,Sunnyside,Northwest Queens,Queens
+2320,5851,54574402,2195,1.0,1,700,5,3.0,51,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2330,6979,30171847,3400,1.0,1,890,2,5.0,8,0,0,1,1,1,1,0,1,Long Island City,Northwest Queens,Queens
+2334,8956,50079271,3200,1.0,1,718,3,22.0,2,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2347,10228,39133125,3150,1.0,1,761,2,7.0,4,1,1,0,0,1,0,0,0,Long Island City,Northwest Queens,Queens
+2399,1957,73060494,2900,1.0,1,936,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2417,6731,87487057,1750,1.0,1,921,2,3.0,68,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+2438,4754,83371097,3117,1.0,1,702,3,7.0,16,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2454,6629,26358092,1725,1.0,1,650,4,5.0,50,1,0,0,0,0,0,0,0,Briarwood,Northeast Queens,Queens
+2491,10109,53672146,1500,1.0,1,450,7,2.0,76,1,0,0,0,0,0,0,0,Ridgewood,Central Queens,Queens
+2496,7970,54505659,1900,1.0,1,875,4,4.0,55,0,1,1,0,1,1,1,1,Forest Hills,Central Queens,Queens
+2500,5284,16233344,2200,1.0,1,500,3,8.0,88,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2505,5376,52635854,1450,1.0,1,525,20,3.0,85,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+2543,10719,33994391,3350,1.0,1,863,3,9.0,20,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2550,6499,73060494,2625,1.0,1,625,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2557,5756,13753727,3225,1.0,1,710,6,8.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2558,2132,41000851,2400,1.0,1,675,17,14.0,27,0,1,0,1,1,0,0,1,Astoria,Northwest Queens,Queens
+2610,2647,65341662,2200,1.0,1,550,16,3.0,9,0,0,0,1,0,0,0,0,Astoria,Northwest Queens,Queens
+2631,7830,64067963,1750,1.0,1,714,6,3.0,13,0,0,0,0,0,0,0,0,Briarwood,Northeast Queens,Queens
+2633,3633,9855087,2000,1.0,1,618,2,3.0,96,0,0,0,0,0,0,0,0,Elmhurst,Central Queens,Queens
+2648,5529,58358357,2950,1.0,1,718,9,4.0,2,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2688,2498,86933292,1750,1.0,1,700,7,4.0,89,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2689,72,60867403,3250,1.0,1,652,1,4.0,0,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2702,10068,92818278,1900,1.0,1,700,4,1.0,81,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2725,8166,53666298,2800,1.0,1,854,6,4.0,16,1,0,0,0,0,0,1,0,Astoria,Northwest Queens,Queens
+2734,4314,91154087,1975,1.0,1,788,2,2.0,65,1,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+2750,9427,73478502,2295,1.0,1,758,3,3.0,7,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2773,9634,98049681,1725,1.0,1,600,13,2.0,86,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2778,5578,67877448,3000,1.0,1,608,1,11.0,8,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2832,6401,58994300,1850,1.0,1,700,2,4.0,11,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2843,9878,80285199,2575,1.0,1,750,6,2.0,89,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2857,5378,73060494,2485,1.0,1,620,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2862,3164,79652410,2100,1.0,1,900,5,2.0,77,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+2868,5758,13753727,3175,1.0,1,627,6,13.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2904,8578,45920676,2050,1.0,1,750,4,5.0,88,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+2905,5479,92118601,1725,1.0,1,550,2,3.0,7,1,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+2912,10868,60114479,2300,1.0,1,800,3,2.0,85,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+2946,3765,83371097,3193,1.0,1,702,3,21.0,16,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3000,6796,11790470,1825,1.0,1,773,13,5.0,60,1,0,0,0,0,1,0,0,Forest Hills,Central Queens,Queens
+3008,5132,19011765,1700,1.0,1,650,2,2.0,94,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3010,6316,71344937,1750,1.0,1,720,16,4.0,53,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+3084,3252,13753727,3000,1.0,1,629,6,20.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3089,7972,78283090,1750,1.0,1,830,3,2.0,80,0,0,0,0,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+3105,9333,60867403,2575,1.0,1,610,1,3.0,0,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3114,9879,45227324,3450,1.0,1,629,6,3.0,85,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3121,8962,24535441,1750,1.0,1,740,4,2.0,78,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+3131,7337,59608821,2100,1.0,1,750,7,5.0,64,1,1,1,1,1,1,0,0,Rego Park,Central Queens,Queens
+3141,8159,40496208,2200,1.0,1,850,4,5.0,56,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3157,3454,13753727,3125,1.0,1,691,6,6.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3240,1931,34912094,1950,1.0,1,925,12,2.0,60,1,0,1,0,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+3269,7633,58956505,2350,1.0,1,600,6,3.0,106,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3284,5088,75883686,1850,1.0,1,1000,4,3.0,75,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+3287,8381,37392098,1850,1.0,1,875,4,2.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3293,8414,36322384,1900,1.0,1,700,2,9.0,90,0,0,1,0,0,1,0,0,Astoria,Northwest Queens,Queens
+3304,3175,23781472,2350,1.0,1,936,11,3.0,8,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3321,10833,91861463,2050,1.0,1,800,5,1.0,77,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+3342,10129,45573650,1650,1.0,1,875,8,5.0,84,0,0,0,0,0,0,0,0,Rockaway All,The Rockaways,Queens
+3356,11037,37281007,1750,1.0,1,850,17,2.0,54,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+3362,6403,96132283,2400,1.0,1,800,9,3.0,96,0,1,1,1,1,1,0,1,Astoria,Northwest Queens,Queens
+3370,5755,13753727,3125,1.0,1,691,6,5.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3380,6478,55805738,1625,1.0,1,865,5,5.0,54,0,0,0,0,0,0,0,0,Jamaica Hills,South Queens,Queens
+3416,9978,23855349,2000,1.0,1,722,10,5.0,2,0,0,0,0,0,0,0,0,North Corona,Central Queens,Queens
+3468,4119,98472725,2095,1.0,1,700,2,5.0,53,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3482,7762,51593269,1950,1.0,1,915,6,12.0,56,1,0,0,0,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+3515,4927,74712223,1895,1.0,1,680,4,1.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3565,3710,35225985,1700,1.0,1,1000,18,4.0,54,0,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+3598,3699,30171847,3300,1.0,1,830,2,11.0,8,0,0,0,0,1,0,0,0,Long Island City,Northwest Queens,Queens
+3601,3260,13753727,3125,1.0,1,627,6,12.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3614,9051,1736684,2050,1.0,1,646,1,4.0,1,1,0,0,0,0,0,0,0,Elmhurst,Central Queens,Queens
+3622,11301,9444618,1971,1.0,1,850,4,5.0,62,1,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+3663,6899,57495619,1825,1.0,1,697,6,7.0,57,1,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+3676,5676,30171847,3325,1.0,1,859,2,6.0,8,0,1,1,1,1,0,0,1,Long Island City,Northwest Queens,Queens
+3736,10239,67877448,2995,1.0,1,713,1,4.0,8,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3744,7502,15728012,1950,1.0,1,480,10,3.0,1,1,0,0,0,0,0,0,0,Ridgewood,Central Queens,Queens
+3769,8815,73060494,3500,1.0,1,1000,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3800,5647,73060494,2570,1.0,1,625,9,4.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3810,2716,8217653,2595,1.0,1,841,8,3.0,56,1,0,1,1,1,0,0,0,Forest Hills,Central Queens,Queens
+3831,1177,15672844,2400,1.0,1,720,2,3.0,6,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3841,10254,73060494,2600,1.0,1,610,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3844,5649,13753727,3225,1.0,1,629,6,14.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3857,5643,13753727,3175,1.0,1,627,6,13.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+3925,6581,53208691,1585,1.0,1,700,4,1.0,85,0,0,0,0,0,0,0,0,Woodside,Central Queens,Queens
+3969,7806,80485006,2100,1.0,1,650,4,2.0,7,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+3995,7345,33994391,2700,1.0,1,690,3,23.0,20,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4076,2385,10606754,2000,1.0,1,900,4,3.0,70,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+4117,6935,83371097,3110,1.0,1,680,3,29.0,16,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4125,4664,6532586,2300,1.0,1,950,3,3.0,85,1,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+4127,5625,30171847,2950,1.0,1,757,2,2.0,8,0,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4165,2129,88539112,2800,1.0,1,908,1,22.0,25,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+4206,1441,33466417,2300,1.0,1,802,10,3.0,7,0,0,0,1,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+4235,6798,89178144,1975,1.0,1,720,5,5.0,64,1,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+4245,3268,43661513,2375,1.0,1,700,4,3.0,9,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+4261,8932,22666785,1695,1.0,1,720,2,2.0,13,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+4274,10913,48483787,2400,1.0,1,950,0,8.0,50,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+4279,8326,39809462,1950,1.0,1,900,3,6.0,65,0,0,0,0,0,0,0,0,Jackson Heights,Central Queens,Queens
+4307,4890,16233344,2600,1.0,1,950,3,6.0,88,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4312,7305,98273937,2000,1.0,1,663,7,1.0,85,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+4402,10020,81008961,1550,1.0,1,700,4,4.0,21,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+4436,7689,50632671,1900,1.0,1,600,1,2.0,0,0,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+4440,6713,72882049,2150,1.0,1,800,3,4.0,13,1,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+4451,2663,65341662,2200,1.0,1,700,16,3.0,9,0,0,0,1,0,0,0,0,Astoria,Northwest Queens,Queens
+4475,5702,13753727,3275,1.0,1,630,6,15.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4502,9505,97910181,1750,1.0,1,850,7,2.0,61,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+4514,10540,80312442,1585,1.0,1,750,2,2.0,90,0,0,0,0,0,0,0,0,Woodside,Central Queens,Queens
+4569,4512,83371097,3229,1.0,1,702,3,20.0,16,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4586,70,60867403,2800,1.0,1,665,1,7.0,0,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+4587,6304,73060494,2545,1.0,1,655,9,3.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+4634,10618,52644037,2000,1.0,1,700,3,1.0,8,0,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+4685,2143,40496208,2050,1.0,1,800,4,1.0,56,0,0,0,1,1,0,0,0,Astoria,Northwest Queens,Queens
+4720,2133,88539112,2900,1.0,1,914,1,5.0,25,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+4737,5812,50518851,1800,1.0,1,700,7,9.0,89,0,0,0,0,0,0,0,0,Kew Gardens,Northeast Queens,Queens
+4756,8752,75883686,1800,1.0,1,950,4,5.0,75,0,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+4764,8319,41429935,1950,1.0,1,740,4,6.0,80,0,0,0,0,0,0,0,0,Sunnyside,Northwest Queens,Queens
+4795,4973,23781472,2350,1.0,1,882,11,3.0,8,0,1,0,1,1,0,0,1,Astoria,Northwest Queens,Queens
+4806,6804,42057488,1795,1.0,1,550,12,6.0,49,1,0,0,0,0,0,0,0,Flushing,Northeast Queens,Queens
+4844,5884,55659469,3050,1.0,1,700,5,3.0,0,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4875,6572,49653888,2625,1.0,1,673,10,13.0,6,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
+4876,8324,66802619,1600,1.0,1,820,2,4.0,85,0,0,1,1,0,0,0,0,Sunnyside,Northwest Queens,Queens
+4901,1845,80967482,3500,1.0,1,753,1,3.0,85,1,0,0,0,0,0,0,0,Long Island City,Northwest Queens,Queens
+4932,471,77099591,2650,1.0,1,650,6,21.0,1,1,0,0,0,0,0,0,0,Rego Park,Central Queens,Queens
+4976,11245,9444618,2200,1.0,1,850,4,3.0,62,1,0,0,0,0,0,0,0,Forest Hills,Central Queens,Queens
+4995,1964,73060494,2650,1.0,1,686,9,4.0,3,1,0,0,0,0,0,0,0,Astoria,Northwest Queens,Queens
