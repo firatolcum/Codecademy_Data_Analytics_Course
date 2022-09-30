@@ -1,0 +1,1001 @@
+﻿buying_cost,maintenance_cost,doors,capacity,luggage,safety,acceptability,manufacturer_country
+vhigh,low,4,4,small,med,unacc,China
+vhigh,med,3,4,small,high,acc,France
+med,high,3,2,med,high,unacc,United States
+low,med,4,more,big,low,unacc,United States
+low,high,2,more,med,high,acc,South Korea
+low,low,3,4,small,low,unacc,France
+med,med,4,4,big,med,acc,South Korea
+vhigh,med,2,4,big,high,acc,France
+high,low,3,4,big,low,unacc,Italy
+low,high,4,4,small,low,unacc,Italy
+low,high,4,4,big,low,unacc,Italy
+low,med,2,more,small,low,unacc,United States
+med,med,3,2,small,low,unacc,South Korea
+low,med,3,4,small,high,good,Japan
+high,low,4,more,big,low,unacc,Germany
+vhigh,vhigh,3,2,big,high,unacc,Japan
+med,high,4,4,small,high,acc,France
+vhigh,med,5more,2,med,low,unacc,Italy
+low,high,3,4,med,med,acc,United States
+low,low,3,2,med,med,unacc,Germany
+low,med,2,2,big,high,unacc,South Korea
+med,med,2,more,med,high,acc,South Korea
+low,med,5more,2,med,med,unacc,Germany
+high,med,4,2,big,high,unacc,South Korea
+med,med,5more,more,med,low,unacc,South Korea
+med,vhigh,5more,2,big,med,unacc,United States
+high,med,5more,more,small,low,unacc,United States
+low,med,4,2,small,low,unacc,South Korea
+high,med,3,4,med,low,unacc,Italy
+vhigh,vhigh,2,4,small,high,unacc,United States
+med,low,5more,more,big,high,vgood,China
+med,vhigh,3,more,med,high,acc,South Korea
+low,med,4,more,small,med,acc,United States
+vhigh,med,3,2,med,low,unacc,Italy
+high,low,3,2,small,med,unacc,France
+med,low,4,4,med,med,good,Italy
+high,med,5more,more,med,low,unacc,France
+med,vhigh,3,2,small,low,unacc,Japan
+high,vhigh,5more,4,med,med,unacc,France
+low,med,2,4,big,high,vgood,United States
+vhigh,vhigh,2,4,big,low,unacc,South Korea
+high,vhigh,4,2,small,med,unacc,Japan
+med,med,3,2,med,high,unacc,Italy
+med,low,4,more,big,high,vgood,France
+low,high,2,more,big,low,unacc,Germany
+high,med,4,4,small,low,unacc,Japan
+vhigh,high,2,more,small,high,unacc,Japan
+high,med,4,more,small,high,acc,Japan
+vhigh,vhigh,4,4,med,low,unacc,Japan
+high,low,4,4,small,low,unacc,South Korea
+med,low,3,2,big,low,unacc,South Korea
+vhigh,high,2,more,med,high,unacc,Germany
+high,low,5more,4,small,med,unacc,Japan
+high,med,4,2,small,low,unacc,South Korea
+low,low,5more,2,med,med,unacc,China
+vhigh,low,2,4,small,med,unacc,Italy
+high,vhigh,2,4,small,low,unacc,United States
+low,low,4,4,small,high,good,China
+vhigh,low,3,4,small,low,unacc,Germany
+high,med,5more,2,big,med,unacc,Italy
+high,med,5more,4,med,low,unacc,France
+vhigh,med,4,2,big,med,unacc,Japan
+vhigh,med,4,4,small,low,unacc,United States
+low,vhigh,4,4,med,med,acc,South Korea
+high,vhigh,4,more,small,low,unacc,South Korea
+high,med,4,4,small,med,unacc,Germany
+vhigh,high,5more,2,big,low,unacc,United States
+high,vhigh,3,4,small,low,unacc,France
+high,high,4,more,big,med,acc,China
+low,vhigh,3,more,big,low,unacc,United States
+low,vhigh,3,4,small,high,acc,Japan
+med,vhigh,2,more,big,med,acc,Germany
+high,low,2,more,big,med,acc,Germany
+med,vhigh,2,more,med,high,acc,South Korea
+high,vhigh,2,more,big,med,unacc,France
+vhigh,vhigh,4,4,med,med,unacc,Japan
+low,high,2,4,small,med,acc,China
+high,med,2,more,small,low,unacc,Germany
+high,vhigh,2,2,med,high,unacc,South Korea
+med,vhigh,3,4,med,med,unacc,United States
+med,med,3,2,big,low,unacc,Germany
+low,med,5more,2,big,low,unacc,Japan
+high,med,4,more,big,low,unacc,South Korea
+low,med,5more,4,med,med,good,Italy
+vhigh,high,4,more,small,med,unacc,South Korea
+med,vhigh,4,2,med,med,unacc,France
+high,high,3,more,big,high,acc,France
+low,vhigh,2,more,big,med,acc,Japan
+med,med,5more,2,med,high,unacc,Japan
+med,med,2,2,small,high,unacc,Japan
+med,med,4,more,big,high,vgood,Italy
+med,low,3,2,med,high,unacc,France
+vhigh,vhigh,4,2,med,med,unacc,South Korea
+med,med,5more,4,med,med,acc,Germany
+high,low,3,4,med,med,unacc,Japan
+vhigh,vhigh,4,2,big,low,unacc,Italy
+high,high,5more,2,med,med,unacc,Germany
+vhigh,med,5more,more,big,med,acc,United States
+low,low,4,4,small,low,unacc,Germany
+low,low,5more,more,small,med,acc,South Korea
+low,med,2,more,big,med,good,United States
+vhigh,vhigh,2,more,big,high,unacc,United States
+low,med,5more,2,big,med,unacc,Germany
+high,med,2,2,med,high,unacc,United States
+vhigh,vhigh,5more,4,med,low,unacc,South Korea
+med,low,5more,4,med,high,vgood,Germany
+high,med,3,more,small,low,unacc,France
+vhigh,low,3,4,big,high,acc,Italy
+high,high,4,4,small,low,unacc,Italy
+high,vhigh,4,more,med,low,unacc,France
+low,med,3,4,med,high,good,France
+vhigh,high,3,more,big,med,unacc,China
+vhigh,low,5more,more,med,low,unacc,Germany
+high,high,2,4,med,low,unacc,China
+vhigh,vhigh,5more,more,big,med,unacc,Italy
+vhigh,vhigh,4,more,small,low,unacc,Germany
+med,low,5more,more,small,high,good,Japan
+vhigh,med,2,2,big,high,unacc,France
+high,vhigh,2,2,med,low,unacc,United States
+vhigh,vhigh,2,2,med,low,unacc,Japan
+med,high,2,more,med,med,unacc,France
+low,med,4,4,small,med,acc,South Korea
+vhigh,low,2,more,big,low,unacc,South Korea
+high,med,5more,2,big,high,unacc,Germany
+low,vhigh,4,2,small,med,unacc,South Korea
+high,vhigh,4,4,big,med,unacc,Japan
+high,med,2,more,small,med,unacc,Germany
+low,med,2,4,small,low,unacc,United States
+low,vhigh,2,2,small,med,unacc,Japan
+high,low,4,4,med,med,acc,Japan
+vhigh,low,3,more,big,low,unacc,United States
+high,vhigh,4,4,small,med,unacc,Japan
+vhigh,high,4,2,med,low,unacc,Italy
+vhigh,vhigh,5more,more,small,low,unacc,South Korea
+low,med,2,4,small,med,acc,United States
+high,low,2,4,big,med,acc,United States
+high,vhigh,3,2,med,med,unacc,South Korea
+med,high,4,4,med,med,acc,Italy
+vhigh,high,3,more,small,low,unacc,United States
+med,low,3,4,small,high,good,Italy
+med,vhigh,2,4,big,high,acc,Japan
+vhigh,low,4,4,med,high,acc,Italy
+vhigh,vhigh,3,2,small,low,unacc,China
+med,med,4,2,med,med,unacc,South Korea
+high,vhigh,5more,more,big,low,unacc,China
+low,high,4,4,big,med,acc,Germany
+low,high,2,4,med,med,acc,United States
+high,high,3,2,small,low,unacc,Germany
+med,low,2,more,big,med,good,Japan
+med,high,3,2,med,med,unacc,South Korea
+med,med,3,2,small,med,unacc,Japan
+high,low,5more,2,small,med,unacc,Germany
+low,vhigh,4,2,med,low,unacc,China
+high,high,3,2,med,low,unacc,Germany
+low,low,4,2,big,low,unacc,Japan
+med,high,3,4,small,med,unacc,United States
+med,med,4,more,med,high,vgood,Germany
+high,low,5more,4,small,low,unacc,South Korea
+vhigh,vhigh,4,more,med,high,unacc,United States
+vhigh,high,2,4,big,high,unacc,Germany
+vhigh,med,5more,2,med,med,unacc,South Korea
+low,vhigh,2,more,med,high,acc,France
+vhigh,high,2,more,small,med,unacc,Japan
+high,high,2,2,small,med,unacc,Japan
+med,med,2,more,med,low,unacc,Germany
+low,high,3,4,small,low,unacc,Germany
+low,vhigh,3,2,med,med,unacc,United States
+low,med,5more,more,med,high,vgood,China
+high,med,2,2,med,low,unacc,South Korea
+high,high,2,more,big,low,unacc,Germany
+low,high,3,more,big,high,vgood,United States
+med,med,2,2,small,low,unacc,France
+high,high,2,2,small,low,unacc,Germany
+vhigh,high,4,2,big,high,unacc,Japan
+high,high,2,2,big,high,unacc,Italy
+low,vhigh,5more,more,med,med,acc,South Korea
+vhigh,med,3,more,med,med,acc,Japan
+vhigh,high,3,2,big,med,unacc,Germany
+vhigh,med,4,more,med,low,unacc,Germany
+low,med,3,more,big,low,unacc,Japan
+vhigh,vhigh,4,2,med,low,unacc,Germany
+high,low,4,4,small,high,acc,South Korea
+vhigh,low,5more,4,big,high,acc,Germany
+low,vhigh,3,2,small,low,unacc,Italy
+med,med,3,4,med,low,unacc,United States
+vhigh,vhigh,5more,2,big,high,unacc,Germany
+low,med,2,2,med,high,unacc,United States
+high,high,2,more,med,high,acc,Germany
+low,vhigh,4,4,med,high,acc,United States
+high,vhigh,5more,2,big,high,unacc,Italy
+low,high,5more,more,small,med,acc,Japan
+low,med,2,more,big,high,vgood,United States
+med,high,5more,4,big,high,acc,Japan
+med,low,2,2,big,high,unacc,Italy
+high,low,2,2,small,high,unacc,Japan
+high,vhigh,3,2,med,high,unacc,Japan
+med,high,4,2,small,high,unacc,United States
+vhigh,vhigh,5more,4,small,med,unacc,Germany
+high,vhigh,5more,more,big,med,unacc,Germany
+vhigh,low,2,4,med,high,acc,Germany
+high,med,3,2,med,high,unacc,France
+med,low,3,4,small,med,acc,Japan
+vhigh,vhigh,4,4,small,med,unacc,Germany
+high,high,3,more,med,low,unacc,Italy
+med,vhigh,4,4,big,high,acc,Germany
+vhigh,low,2,2,small,high,unacc,Germany
+med,vhigh,4,more,small,high,acc,United States
+vhigh,med,4,more,small,high,acc,South Korea
+med,low,2,more,med,high,good,France
+low,med,3,more,big,med,good,Germany
+med,low,5more,4,med,low,unacc,Japan
+med,med,4,more,med,low,unacc,France
+low,med,5more,4,small,low,unacc,South Korea
+med,high,3,2,small,high,unacc,South Korea
+high,low,5more,2,med,low,unacc,Italy
+vhigh,vhigh,4,4,small,low,unacc,Germany
+low,high,4,4,med,med,acc,France
+vhigh,low,3,2,big,high,unacc,Italy
+high,high,2,2,big,med,unacc,Japan
+vhigh,vhigh,3,more,med,med,unacc,Germany
+low,med,2,more,big,low,unacc,South Korea
+low,low,2,more,small,med,unacc,Germany
+vhigh,high,4,4,big,med,unacc,United States
+vhigh,high,3,4,big,med,unacc,Germany
+low,med,4,4,med,med,good,France
+vhigh,med,2,4,med,low,unacc,South Korea
+med,med,3,2,big,high,unacc,Germany
+low,high,5more,4,med,high,vgood,Japan
+high,med,5more,more,med,high,acc,China
+med,low,4,more,small,high,good,Japan
+high,vhigh,2,4,big,med,unacc,China
+high,med,4,more,small,low,unacc,Japan
+high,low,3,4,big,high,acc,South Korea
+med,med,3,4,small,high,acc,Germany
+med,med,2,4,big,high,vgood,France
+vhigh,low,4,4,med,low,unacc,South Korea
+low,vhigh,5more,2,med,high,unacc,Japan
+med,high,5more,4,small,med,unacc,South Korea
+med,vhigh,5more,2,big,low,unacc,Japan
+med,med,4,2,small,med,unacc,South Korea
+low,vhigh,5more,more,big,high,acc,South Korea
+med,vhigh,5more,4,small,low,unacc,South Korea
+high,med,2,4,small,low,unacc,United States
+high,vhigh,3,more,med,low,unacc,France
+vhigh,vhigh,2,more,med,high,unacc,Germany
+high,med,4,4,med,med,acc,Japan
+low,med,4,more,med,low,unacc,South Korea
+low,low,4,4,med,med,good,Germany
+high,vhigh,2,2,big,low,unacc,Germany
+med,low,4,2,med,high,unacc,South Korea
+low,vhigh,3,2,med,low,unacc,Japan
+low,low,2,more,med,high,good,United States
+vhigh,high,4,4,big,high,unacc,South Korea
+low,med,3,4,med,med,acc,Italy
+high,vhigh,5more,4,med,high,unacc,United States
+med,low,5more,2,med,med,unacc,Japan
+vhigh,med,5more,more,small,high,acc,Japan
+med,high,5more,more,small,med,unacc,China
+high,high,4,4,med,med,acc,Japan
+low,low,2,4,small,low,unacc,United States
+med,vhigh,4,more,big,low,unacc,China
+high,med,3,more,med,low,unacc,Germany
+low,high,2,4,med,low,unacc,Germany
+high,vhigh,2,2,small,low,unacc,South Korea
+low,low,2,4,big,low,unacc,United States
+high,high,3,2,big,low,unacc,Japan
+vhigh,high,3,4,small,low,unacc,Germany
+med,med,2,2,med,high,unacc,Germany
+vhigh,med,4,more,small,med,unacc,Germany
+low,low,3,4,big,low,unacc,China
+med,med,5more,2,med,low,unacc,France
+vhigh,med,5more,4,small,low,unacc,South Korea
+vhigh,high,5more,2,big,high,unacc,South Korea
+vhigh,med,2,4,small,high,acc,Germany
+med,vhigh,3,2,small,med,unacc,Italy
+med,high,3,4,big,med,acc,Germany
+low,low,2,more,big,high,vgood,Japan
+med,high,2,more,big,low,unacc,Italy
+high,med,5more,more,big,med,acc,Germany
+high,low,5more,2,big,low,unacc,South Korea
+vhigh,high,2,2,big,med,unacc,Germany
+low,high,4,4,med,high,vgood,Germany
+vhigh,med,2,more,big,low,unacc,United States
+high,med,2,4,big,low,unacc,Japan
+med,high,2,more,small,med,unacc,Italy
+high,low,5more,4,big,low,unacc,Italy
+vhigh,high,4,2,small,high,unacc,South Korea
+med,low,4,more,small,med,acc,Italy
+med,low,3,4,big,med,good,United States
+high,high,3,4,small,high,acc,Germany
+vhigh,low,2,more,small,low,unacc,Italy
+vhigh,vhigh,5more,more,med,low,unacc,United States
+med,low,2,4,small,med,acc,Germany
+med,high,5more,more,big,low,unacc,South Korea
+med,low,4,2,big,low,unacc,Germany
+low,vhigh,4,2,big,high,unacc,Italy
+vhigh,med,3,more,small,med,unacc,Japan
+low,high,3,4,big,high,vgood,South Korea
+vhigh,med,2,more,small,med,unacc,Japan
+low,low,4,2,small,low,unacc,South Korea
+high,low,4,2,big,med,unacc,South Korea
+med,vhigh,3,2,small,high,unacc,Japan
+high,vhigh,5more,4,big,low,unacc,Germany
+low,vhigh,5more,more,med,low,unacc,United States
+low,low,4,more,big,med,good,Japan
+low,vhigh,5more,2,big,low,unacc,Germany
+low,low,2,4,med,high,good,United States
+med,low,4,4,med,high,vgood,Italy
+vhigh,vhigh,5more,4,med,med,unacc,Germany
+vhigh,med,2,2,med,high,unacc,South Korea
+low,vhigh,2,4,small,med,unacc,France
+low,high,5more,2,med,low,unacc,Japan
+med,vhigh,2,more,big,low,unacc,United States
+med,med,5more,more,small,low,unacc,France
+vhigh,med,3,2,big,low,unacc,Germany
+med,low,3,4,small,low,unacc,Germany
+high,med,2,4,med,low,unacc,Japan
+vhigh,med,3,more,med,high,acc,Japan
+vhigh,med,5more,4,small,med,unacc,United States
+high,vhigh,2,4,med,low,unacc,United States
+med,high,4,2,med,med,unacc,Germany
+vhigh,vhigh,4,more,big,med,unacc,United States
+low,high,3,4,small,high,acc,France
+vhigh,vhigh,4,more,big,high,unacc,South Korea
+vhigh,low,4,more,big,low,unacc,South Korea
+low,vhigh,3,more,med,low,unacc,China
+vhigh,high,2,more,big,low,unacc,Germany
+med,med,2,4,med,med,acc,China
+med,low,2,4,med,low,unacc,Italy
+high,med,3,4,med,high,acc,China
+med,low,3,2,med,med,unacc,Japan
+vhigh,vhigh,4,4,big,low,unacc,South Korea
+high,low,5more,more,med,low,unacc,Germany
+low,high,5more,2,big,low,unacc,Italy
+vhigh,vhigh,2,2,med,med,unacc,United States
+low,high,2,4,big,low,unacc,South Korea
+med,high,5more,2,big,high,unacc,China
+vhigh,vhigh,4,more,med,low,unacc,Italy
+med,med,2,4,med,high,acc,Japan
+vhigh,high,2,more,big,med,unacc,United States
+med,med,3,more,small,high,acc,France
+low,vhigh,2,2,med,med,unacc,France
+vhigh,vhigh,5more,2,small,high,unacc,Germany
+vhigh,high,3,4,big,high,unacc,China
+high,low,4,more,med,low,unacc,South Korea
+med,vhigh,5more,4,med,high,acc,Japan
+vhigh,vhigh,4,more,small,med,unacc,Germany
+vhigh,med,4,2,med,high,unacc,Japan
+low,vhigh,4,4,big,high,acc,Germany
+low,low,3,2,small,med,unacc,United States
+med,high,4,2,small,med,unacc,Germany
+low,high,4,4,big,high,vgood,Germany
+high,med,4,4,big,high,acc,Japan
+high,low,5more,2,big,high,unacc,South Korea
+med,low,4,4,small,low,unacc,United States
+med,med,4,4,med,med,acc,Germany
+high,low,3,4,small,med,unacc,Germany
+high,med,5more,2,small,med,unacc,United States
+med,high,3,more,med,med,acc,United States
+low,low,5more,2,small,high,unacc,Japan
+high,med,3,2,big,low,unacc,United States
+low,high,5more,2,small,med,unacc,Germany
+vhigh,high,3,2,small,med,unacc,Japan
+vhigh,vhigh,3,more,med,high,unacc,Italy
+vhigh,low,3,more,small,high,acc,Germany
+low,high,5more,4,big,med,acc,China
+low,vhigh,5more,4,med,med,acc,France
+vhigh,med,5more,4,big,high,acc,Japan
+med,low,5more,more,med,high,vgood,South Korea
+med,high,4,2,med,low,unacc,Japan
+vhigh,low,4,4,small,low,unacc,France
+med,vhigh,4,more,med,med,acc,Italy
+low,med,4,2,med,med,unacc,Italy
+med,low,3,more,small,high,good,Germany
+low,vhigh,3,4,med,low,unacc,China
+low,low,5more,more,med,med,good,China
+high,vhigh,5more,4,small,low,unacc,France
+low,med,3,more,big,high,vgood,United States
+low,vhigh,5more,4,big,high,acc,Italy
+high,low,4,4,small,med,unacc,United States
+med,low,3,2,big,med,unacc,United States
+med,low,2,more,small,low,unacc,United States
+low,low,3,4,med,med,acc,United States
+med,high,5more,4,big,low,unacc,South Korea
+high,med,2,more,big,med,acc,Germany
+vhigh,high,3,2,med,med,unacc,South Korea
+vhigh,low,5more,4,big,med,acc,Japan
+low,vhigh,2,more,med,med,unacc,Italy
+high,high,3,2,med,med,unacc,Germany
+high,vhigh,4,more,small,high,unacc,Germany
+low,vhigh,2,more,med,low,unacc,South Korea
+vhigh,low,2,more,small,high,unacc,Germany
+med,high,5more,4,med,high,acc,Italy
+med,high,2,2,med,high,unacc,Italy
+low,med,2,2,small,med,unacc,Italy
+low,high,2,more,small,low,unacc,Japan
+med,med,2,2,big,med,unacc,Germany
+low,vhigh,2,4,med,low,unacc,Japan
+low,vhigh,5more,2,big,med,unacc,Japan
+med,low,2,4,med,med,acc,Japan
+high,vhigh,2,2,big,high,unacc,Germany
+high,low,5more,more,small,med,unacc,Japan
+high,low,3,2,small,high,unacc,Japan
+high,low,5more,4,med,low,unacc,United States
+med,high,5more,more,small,low,unacc,Japan
+med,low,2,4,big,med,good,Italy
+med,high,4,2,big,low,unacc,Germany
+med,vhigh,2,4,big,low,unacc,Japan
+high,high,3,more,small,high,acc,Japan
+med,high,2,4,med,low,unacc,France
+low,med,3,2,med,high,unacc,Germany
+high,high,5more,4,big,med,acc,Italy
+high,med,3,2,small,med,unacc,United States
+med,vhigh,5more,2,big,high,unacc,South Korea
+med,vhigh,5more,more,med,high,acc,Italy
+vhigh,high,3,4,med,med,unacc,United States
+med,low,3,4,med,low,unacc,Japan
+vhigh,low,2,4,med,med,unacc,United States
+low,vhigh,2,4,small,low,unacc,United States
+low,low,3,more,big,med,good,Germany
+med,vhigh,4,2,small,med,unacc,South Korea
+high,vhigh,4,2,small,low,unacc,United States
+med,low,5more,more,big,med,good,United States
+low,vhigh,3,2,med,high,unacc,Germany
+low,high,4,2,small,low,unacc,Germany
+vhigh,med,2,2,med,low,unacc,United States
+low,high,5more,4,big,high,vgood,South Korea
+high,vhigh,4,more,med,high,unacc,United States
+high,med,5more,4,med,med,acc,Japan
+vhigh,low,5more,more,med,med,acc,United States
+high,vhigh,4,4,med,med,unacc,Japan
+high,low,3,4,med,low,unacc,United States
+med,vhigh,2,more,small,high,unacc,United States
+high,low,5more,more,big,med,acc,United States
+vhigh,med,4,more,big,med,acc,France
+high,vhigh,2,4,big,low,unacc,France
+vhigh,med,4,2,big,high,unacc,South Korea
+med,high,3,2,small,low,unacc,Japan
+low,low,2,4,med,med,acc,Japan
+low,med,5more,more,med,low,unacc,Germany
+high,vhigh,3,4,big,med,unacc,South Korea
+high,vhigh,2,2,small,med,unacc,France
+low,med,3,4,small,med,acc,South Korea
+high,low,4,more,small,high,acc,United States
+low,low,2,2,big,low,unacc,Germany
+vhigh,med,3,4,med,med,unacc,Japan
+high,high,5more,2,small,high,unacc,Italy
+high,vhigh,2,more,med,high,unacc,Germany
+high,high,5more,4,med,low,unacc,United States
+vhigh,med,5more,more,small,med,unacc,France
+med,low,2,2,small,med,unacc,Italy
+high,low,3,more,med,med,acc,Japan
+med,high,5more,2,small,high,unacc,South Korea
+low,high,5more,4,med,low,unacc,China
+vhigh,low,3,4,small,med,unacc,Japan
+med,high,3,4,med,low,unacc,Japan
+low,high,2,4,small,low,unacc,South Korea
+vhigh,low,5more,more,big,med,acc,Japan
+vhigh,low,5more,2,big,med,unacc,United States
+high,med,5more,4,big,low,unacc,Japan
+vhigh,med,3,4,med,high,acc,France
+med,med,2,more,big,med,acc,South Korea
+low,high,2,2,big,low,unacc,United States
+vhigh,med,5more,4,big,med,acc,Japan
+vhigh,high,3,more,small,high,unacc,Japan
+high,low,4,2,small,low,unacc,United States
+low,low,3,2,big,low,unacc,Japan
+med,high,5more,4,small,low,unacc,Japan
+vhigh,low,5more,more,small,med,unacc,France
+vhigh,med,3,2,small,med,unacc,Germany
+vhigh,med,3,4,big,high,acc,Germany
+low,med,3,2,small,high,unacc,Italy
+low,low,2,more,big,low,unacc,China
+med,med,5more,more,big,high,vgood,Japan
+vhigh,low,2,2,small,med,unacc,United States
+high,vhigh,2,more,med,med,unacc,South Korea
+low,vhigh,2,2,big,low,unacc,China
+vhigh,low,3,4,big,med,acc,Germany
+low,vhigh,3,more,small,high,acc,Germany
+high,med,3,4,small,med,unacc,United States
+high,high,4,2,big,low,unacc,Italy
+high,low,2,4,med,med,unacc,China
+high,med,3,more,small,med,unacc,Germany
+low,med,5more,more,med,med,good,United States
+med,high,2,more,small,high,unacc,United States
+low,vhigh,2,2,small,low,unacc,Japan
+vhigh,low,4,more,med,low,unacc,Germany
+low,low,4,4,small,med,acc,Germany
+high,low,2,more,small,med,unacc,China
+high,med,4,4,small,high,acc,United States
+high,med,3,2,med,low,unacc,South Korea
+vhigh,med,3,2,med,med,unacc,France
+med,high,2,4,small,low,unacc,China
+vhigh,low,5more,2,small,low,unacc,Germany
+low,low,2,more,big,med,good,South Korea
+med,med,5more,4,small,med,acc,Japan
+high,vhigh,2,more,big,high,unacc,United States
+low,low,2,2,big,high,unacc,France
+med,low,4,2,small,low,unacc,South Korea
+vhigh,med,4,2,med,med,unacc,China
+low,vhigh,5more,2,small,high,unacc,United States
+high,low,2,2,med,med,unacc,United States
+high,high,2,2,med,low,unacc,Japan
+high,vhigh,2,more,med,low,unacc,South Korea
+med,vhigh,3,more,small,med,unacc,Italy
+vhigh,low,2,more,med,low,unacc,Italy
+vhigh,low,4,more,med,med,acc,Germany
+vhigh,high,5more,2,small,med,unacc,China
+med,low,4,4,med,low,unacc,United States
+vhigh,low,4,4,med,med,acc,United States
+vhigh,vhigh,3,2,med,high,unacc,Japan
+vhigh,high,4,more,big,high,unacc,China
+low,med,4,2,med,high,unacc,Germany
+med,med,4,2,big,high,unacc,Japan
+med,vhigh,2,4,med,low,unacc,Germany
+low,high,2,4,med,high,acc,Italy
+med,vhigh,4,more,small,low,unacc,United States
+vhigh,vhigh,2,more,small,med,unacc,Japan
+vhigh,high,5more,more,med,low,unacc,Japan
+vhigh,high,3,4,small,med,unacc,Italy
+low,med,4,4,med,high,vgood,Japan
+med,low,3,2,small,high,unacc,Japan
+high,high,2,4,small,high,acc,Japan
+high,low,3,more,med,high,acc,Japan
+low,med,5more,4,small,med,acc,France
+med,high,4,more,small,high,acc,United States
+vhigh,high,2,2,small,med,unacc,South Korea
+med,vhigh,5more,4,big,med,acc,Italy
+high,med,5more,4,big,med,acc,Germany
+med,vhigh,5more,more,big,low,unacc,South Korea
+med,low,2,4,small,high,good,Germany
+med,low,5more,2,med,low,unacc,Germany
+high,vhigh,4,2,big,low,unacc,Germany
+high,high,4,more,small,low,unacc,China
+vhigh,vhigh,3,more,med,low,unacc,Japan
+low,high,3,more,small,low,unacc,Japan
+vhigh,low,3,4,small,high,acc,Japan
+vhigh,high,5more,2,small,high,unacc,Japan
+med,vhigh,4,more,big,med,acc,Japan
+low,med,2,2,med,med,unacc,Italy
+vhigh,vhigh,2,2,small,med,unacc,South Korea
+high,high,4,4,med,low,unacc,United States
+low,low,3,2,med,low,unacc,United States
+med,med,3,more,small,low,unacc,United States
+low,low,4,2,big,med,unacc,Japan
+vhigh,low,5more,4,med,high,acc,Germany
+low,vhigh,4,4,big,low,unacc,Italy
+high,low,2,4,big,low,unacc,France
+low,med,2,4,small,high,good,Italy
+low,high,4,2,med,low,unacc,Germany
+high,vhigh,4,4,big,high,unacc,South Korea
+med,med,3,4,small,low,unacc,Germany
+vhigh,low,3,2,big,low,unacc,Germany
+high,low,4,more,big,high,acc,Germany
+vhigh,vhigh,3,4,med,high,unacc,France
+low,vhigh,5more,more,med,high,acc,Italy
+low,med,4,2,med,low,unacc,Japan
+med,med,5more,2,big,high,unacc,Germany
+med,low,4,2,big,high,unacc,Japan
+high,low,3,4,med,high,acc,Germany
+high,high,2,more,med,low,unacc,South Korea
+high,low,3,2,big,med,unacc,France
+low,low,5more,2,med,high,unacc,United States
+vhigh,high,2,more,med,med,unacc,Germany
+med,low,3,more,big,low,unacc,Japan
+high,low,4,2,med,high,unacc,South Korea
+med,vhigh,3,more,med,med,acc,Japan
+high,med,2,more,small,high,unacc,Germany
+med,low,4,4,big,low,unacc,United States
+med,low,5more,4,small,low,unacc,Japan
+high,high,2,4,med,med,unacc,Germany
+med,low,4,2,small,med,unacc,Japan
+med,vhigh,3,4,big,low,unacc,Italy
+high,vhigh,2,4,med,high,unacc,United States
+med,high,3,4,med,high,acc,South Korea
+high,low,3,more,big,high,acc,Germany
+high,vhigh,4,4,small,high,unacc,South Korea
+med,low,3,2,big,high,unacc,Japan
+high,med,5more,2,small,low,unacc,Germany
+med,med,3,4,med,med,acc,Italy
+med,low,5more,2,small,med,unacc,Germany
+low,high,2,4,big,high,vgood,Italy
+low,vhigh,2,4,med,med,unacc,Germany
+med,high,4,more,big,med,acc,Japan
+low,high,4,more,med,med,acc,Germany
+med,vhigh,2,more,big,high,acc,China
+low,vhigh,2,more,big,low,unacc,France
+vhigh,med,3,more,small,low,unacc,Germany
+med,low,4,4,big,high,vgood,Italy
+med,med,4,2,small,low,unacc,United States
+med,high,3,4,big,low,unacc,Japan
+high,med,5more,2,med,med,unacc,China
+med,med,5more,more,big,med,acc,Japan
+vhigh,high,5more,more,small,high,unacc,Germany
+low,high,2,2,big,high,unacc,South Korea
+high,high,4,4,big,high,acc,South Korea
+high,med,3,2,big,high,unacc,Germany
+vhigh,low,3,4,med,high,acc,Japan
+vhigh,med,5more,more,big,low,unacc,Germany
+vhigh,high,2,2,small,low,unacc,Germany
+low,low,5more,2,big,med,unacc,China
+high,med,4,2,med,low,unacc,South Korea
+low,vhigh,2,2,small,high,unacc,South Korea
+vhigh,high,3,2,small,high,unacc,Japan
+vhigh,high,4,2,med,high,unacc,China
+high,med,3,more,big,low,unacc,United States
+vhigh,med,4,4,big,high,acc,China
+vhigh,high,2,more,med,low,unacc,Japan
+low,vhigh,4,2,med,med,unacc,United States
+vhigh,low,4,more,big,med,acc,South Korea
+vhigh,vhigh,4,2,small,high,unacc,France
+vhigh,vhigh,5more,4,big,high,unacc,Japan
+low,low,2,2,small,high,unacc,Japan
+high,high,5more,4,small,low,unacc,Japan
+vhigh,low,2,4,big,high,acc,Germany
+low,high,3,more,med,med,acc,Italy
+med,high,3,more,small,low,unacc,Germany
+high,vhigh,5more,2,big,low,unacc,France
+med,med,5more,2,big,low,unacc,South Korea
+vhigh,high,4,2,med,med,unacc,Japan
+low,vhigh,4,4,small,high,acc,France
+high,med,5more,more,big,low,unacc,United States
+low,low,4,2,big,high,unacc,China
+high,med,2,2,small,high,unacc,South Korea
+high,vhigh,5more,more,small,med,unacc,South Korea
+med,low,3,2,small,med,unacc,Germany
+high,low,4,4,med,low,unacc,Japan
+med,high,3,2,big,med,unacc,Germany
+low,vhigh,4,4,big,med,acc,Italy
+med,high,5more,more,med,med,acc,Japan
+high,low,2,2,big,med,unacc,Japan
+vhigh,high,4,4,med,low,unacc,China
+med,high,2,more,med,low,unacc,South Korea
+med,vhigh,4,2,big,high,unacc,Japan
+vhigh,vhigh,2,4,small,med,unacc,Germany
+high,vhigh,2,4,small,high,unacc,South Korea
+med,high,2,more,med,high,acc,France
+low,high,3,2,med,high,unacc,Germany
+vhigh,high,2,2,big,low,unacc,South Korea
+vhigh,med,2,4,big,low,unacc,Italy
+vhigh,high,2,more,big,high,unacc,Japan
+low,low,4,2,med,med,unacc,South Korea
+low,med,3,more,small,low,unacc,China
+low,high,4,more,big,low,unacc,Germany
+med,vhigh,4,4,big,med,acc,South Korea
+vhigh,low,3,more,med,med,acc,South Korea
+vhigh,med,4,2,small,low,unacc,South Korea
+low,vhigh,5more,4,small,low,unacc,Japan
+low,high,5more,2,small,high,unacc,Italy
+vhigh,vhigh,2,4,med,med,unacc,Germany
+vhigh,vhigh,4,2,big,high,unacc,China
+high,high,3,more,small,low,unacc,Japan
+vhigh,vhigh,5more,2,med,high,unacc,Japan
+med,med,3,more,big,low,unacc,Japan
+med,low,2,more,big,high,vgood,United States
+low,med,2,2,med,low,unacc,United States
+med,high,2,2,small,med,unacc,Germany
+low,med,2,more,small,med,unacc,Germany
+low,vhigh,4,4,med,low,unacc,China
+vhigh,vhigh,2,4,small,low,unacc,Japan
+vhigh,high,3,more,small,med,unacc,Japan
+low,low,5more,4,small,med,acc,Japan
+high,low,4,4,big,low,unacc,Germany
+low,low,3,2,med,high,unacc,South Korea
+vhigh,med,5more,more,med,med,acc,South Korea
+med,vhigh,3,4,small,med,unacc,Germany
+vhigh,low,3,2,small,high,unacc,Germany
+med,med,3,more,med,low,unacc,Germany
+vhigh,vhigh,5more,2,small,low,unacc,Germany
+med,vhigh,5more,more,med,med,acc,Japan
+high,high,5more,more,small,med,unacc,China
+med,high,5more,2,small,low,unacc,Italy
+med,high,3,more,big,high,acc,Italy
+low,med,3,4,big,low,unacc,Japan
+high,vhigh,3,2,big,low,unacc,Germany
+vhigh,low,3,more,small,med,unacc,France
+vhigh,vhigh,2,2,big,high,unacc,Germany
+med,low,5more,4,big,high,vgood,United States
+vhigh,med,5more,2,big,high,unacc,Germany
+high,med,4,2,big,low,unacc,Germany
+high,low,3,2,med,high,unacc,Japan
+vhigh,vhigh,3,4,big,low,unacc,Japan
+vhigh,high,5more,more,big,high,unacc,United States
+med,vhigh,4,more,small,med,unacc,Italy
+high,med,2,4,med,med,unacc,Germany
+high,low,4,2,big,low,unacc,Japan
+med,vhigh,5more,4,small,high,acc,Italy
+med,low,3,more,med,low,unacc,Germany
+vhigh,vhigh,4,2,med,high,unacc,Italy
+vhigh,high,4,4,med,high,unacc,Japan
+med,low,5more,4,small,high,good,China
+low,high,3,more,big,low,unacc,France
+high,med,4,2,big,med,unacc,United States
+high,high,4,more,small,high,acc,South Korea
+vhigh,vhigh,4,2,big,med,unacc,France
+high,high,5more,2,small,med,unacc,Germany
+high,low,3,more,big,med,acc,China
+vhigh,med,4,2,med,low,unacc,Germany
+med,med,2,more,small,med,unacc,Germany
+vhigh,low,5more,2,med,low,unacc,Germany
+high,low,2,more,big,high,acc,Japan
+low,high,4,4,small,high,acc,South Korea
+med,vhigh,5more,2,small,high,unacc,Germany
+med,vhigh,4,4,small,high,acc,Italy
+med,low,2,more,small,high,unacc,Japan
+high,high,2,2,med,med,unacc,South Korea
+vhigh,high,4,4,small,high,unacc,Japan
+vhigh,vhigh,2,more,small,low,unacc,Germany
+high,vhigh,3,more,small,med,unacc,China
+low,low,3,2,big,med,unacc,Japan
+low,vhigh,4,2,big,low,unacc,Germany
+low,low,4,4,big,med,good,Japan
+vhigh,low,5more,2,med,med,unacc,Germany
+med,low,2,4,small,low,unacc,Italy
+vhigh,high,3,2,big,high,unacc,Japan
+high,vhigh,3,2,big,med,unacc,United States
+high,med,3,4,small,high,acc,Germany
+low,vhigh,3,more,med,high,acc,France
+low,high,5more,more,med,low,unacc,Germany
+low,high,3,more,med,low,unacc,Japan
+high,med,4,more,big,high,acc,Italy
+high,high,5more,4,big,low,unacc,Japan
+med,high,5more,4,med,low,unacc,Japan
+high,high,3,4,big,low,unacc,China
+low,vhigh,3,4,med,high,acc,Japan
+vhigh,low,2,2,big,med,unacc,Italy
+vhigh,med,4,4,big,med,acc,Germany
+med,vhigh,2,more,med,med,unacc,China
+high,low,2,more,med,low,unacc,United States
+med,vhigh,2,more,small,low,unacc,South Korea
+high,low,2,4,med,low,unacc,Japan
+vhigh,low,5more,more,small,low,unacc,Japan
+low,high,5more,more,big,high,vgood,South Korea
+high,vhigh,5more,more,big,high,unacc,Japan
+low,med,5more,more,small,med,acc,China
+med,high,4,4,big,med,acc,Germany
+med,high,2,more,small,low,unacc,China
+med,high,4,more,small,low,unacc,Germany
+low,vhigh,5more,4,small,high,acc,Japan
+high,med,2,more,med,high,acc,South Korea
+vhigh,high,4,2,big,med,unacc,Japan
+low,med,5more,2,med,low,unacc,China
+vhigh,med,4,more,big,high,acc,Germany
+high,high,5more,4,small,med,unacc,France
+low,med,4,4,big,low,unacc,United States
+low,low,3,more,small,low,unacc,Japan
+vhigh,med,3,2,med,high,unacc,China
+med,med,5more,more,med,med,acc,Japan
+high,high,4,more,med,low,unacc,South Korea
+high,vhigh,2,more,big,low,unacc,South Korea
+med,med,4,4,big,high,vgood,France
+high,low,2,more,small,low,unacc,South Korea
+med,vhigh,3,2,med,high,unacc,United States
+vhigh,med,2,2,big,med,unacc,United States
+vhigh,med,3,4,small,low,unacc,United States
+med,vhigh,5more,2,med,high,unacc,Japan
+low,med,3,more,med,low,unacc,Japan
+high,high,4,more,big,low,unacc,United States
+high,vhigh,5more,2,med,low,unacc,Italy
+low,high,3,more,small,med,acc,South Korea
+high,low,4,2,big,high,unacc,South Korea
+low,high,5more,4,small,high,acc,China
+vhigh,low,4,2,small,med,unacc,China
+high,high,4,more,med,med,acc,Germany
+vhigh,vhigh,4,more,small,high,unacc,Germany
+med,med,5more,2,big,med,unacc,Germany
+low,low,3,2,small,low,unacc,United States
+med,med,2,2,med,med,unacc,Japan
+high,med,4,2,med,med,unacc,Japan
+vhigh,high,4,2,small,low,unacc,Japan
+low,vhigh,3,2,big,high,unacc,China
+med,high,5more,4,big,med,acc,United States
+high,high,5more,4,small,high,acc,China
+high,high,3,4,med,high,acc,France
+vhigh,high,4,more,med,med,unacc,Germany
+low,low,3,more,big,high,vgood,Germany
+vhigh,vhigh,2,more,big,med,unacc,Italy
+med,high,4,more,big,low,unacc,Japan
+high,vhigh,5more,2,small,low,unacc,Italy
+high,high,2,4,big,high,acc,France
+low,high,5more,4,small,med,acc,France
+high,med,3,4,big,low,unacc,South Korea
+med,med,2,4,med,low,unacc,South Korea
+med,low,5more,more,small,low,unacc,Germany
+high,low,2,2,big,low,unacc,Italy
+med,med,5more,4,big,med,acc,Japan
+vhigh,med,5more,4,med,med,acc,Germany
+med,high,5more,2,big,med,unacc,China
+low,high,5more,more,small,low,unacc,South Korea
+vhigh,med,3,4,small,med,unacc,Germany
+low,high,3,2,big,med,unacc,Italy
+med,low,2,more,med,low,unacc,France
+high,vhigh,4,more,big,low,unacc,France
+low,vhigh,3,4,big,high,acc,South Korea
+low,low,5more,more,big,med,good,Germany
+vhigh,vhigh,2,more,med,med,unacc,United States
+low,med,3,2,big,low,unacc,France
+med,low,3,more,med,high,vgood,Japan
+med,low,3,2,small,low,unacc,South Korea
+low,med,4,2,big,med,unacc,United States
+med,med,5more,2,small,high,unacc,United States
+high,low,3,4,small,high,acc,South Korea
+vhigh,high,3,more,med,med,unacc,Japan
+high,high,3,4,med,low,unacc,Italy
+low,high,4,4,small,med,acc,France
+high,vhigh,5more,2,med,med,unacc,South Korea
+low,low,3,2,big,high,unacc,South Korea
+low,high,4,4,med,low,unacc,France
+low,low,5more,more,small,high,good,United States
+med,vhigh,2,2,small,low,unacc,Italy
+med,high,5more,more,med,high,acc,Japan
+low,med,3,2,big,med,unacc,Japan
+high,high,4,2,big,high,unacc,South Korea
+low,high,2,more,small,high,unacc,South Korea
+med,high,4,2,small,low,unacc,South Korea
+low,low,3,4,big,high,vgood,Germany
+low,vhigh,4,4,small,low,unacc,Japan
+high,low,5more,2,small,high,unacc,Germany
+high,low,5more,more,med,med,acc,Japan
+low,high,3,4,big,low,unacc,South Korea
+med,high,4,4,small,med,unacc,United States
+med,vhigh,2,more,small,med,unacc,United States
+vhigh,high,4,more,small,high,unacc,Japan
+vhigh,vhigh,5more,more,big,high,unacc,France
+med,low,5more,4,small,med,acc,Japan
+low,vhigh,2,4,big,med,acc,Japan
+vhigh,low,5more,2,small,high,unacc,Italy
+low,low,4,more,med,high,vgood,Japan
+high,vhigh,5more,more,med,low,unacc,France
+vhigh,low,3,2,med,med,unacc,Japan
+high,high,5more,more,big,med,acc,Germany
+vhigh,high,3,4,med,low,unacc,South Korea
+med,high,5more,2,big,low,unacc,France
+med,med,3,more,small,med,acc,South Korea
+high,vhigh,5more,4,small,med,unacc,Japan
+high,low,3,2,small,low,unacc,Italy
+low,med,4,more,small,low,unacc,France
+high,high,5more,2,big,high,unacc,China
+low,high,5more,2,big,med,unacc,Germany
+vhigh,low,4,4,big,low,unacc,Germany
+med,med,3,4,med,high,acc,Germany
+med,vhigh,4,4,big,low,unacc,Japan
+med,high,4,more,med,med,acc,Germany
+vhigh,low,2,4,small,high,acc,Japan
+low,high,4,more,small,low,unacc,United States
+med,vhigh,2,2,med,med,unacc,South Korea
+vhigh,high,5more,2,big,med,unacc,China
+high,low,3,2,big,low,unacc,France
+vhigh,vhigh,2,more,small,high,unacc,South Korea
+high,low,3,2,big,high,unacc,France
+low,high,2,2,med,med,unacc,Japan
+low,high,2,more,med,low,unacc,Japan
+med,med,4,more,big,med,acc,Germany
+low,med,4,more,med,high,vgood,Germany
+med,low,2,4,big,high,vgood,Germany
+vhigh,low,2,more,big,high,acc,Germany
+high,low,4,2,small,med,unacc,Italy
+low,med,5more,more,small,high,good,Japan
+med,high,3,more,med,high,acc,United States
+med,high,3,4,small,low,unacc,Germany
+med,vhigh,2,4,small,med,unacc,Japan
+low,low,3,more,med,med,good,Japan
+vhigh,med,4,4,big,low,unacc,South Korea
+vhigh,high,4,2,small,med,unacc,Japan
+high,low,4,2,med,low,unacc,Germany
+vhigh,vhigh,4,4,big,high,unacc,United States
+med,med,5more,4,small,low,unacc,France
+low,high,3,4,med,high,acc,Japan
+med,vhigh,3,2,med,med,unacc,Japan
+high,med,3,more,big,high,acc,China
+med,vhigh,3,4,med,low,unacc,Japan
+vhigh,vhigh,3,more,small,high,unacc,United States
+low,high,3,2,med,low,unacc,South Korea
+low,med,4,4,big,med,good,Japan
+vhigh,vhigh,5more,2,med,low,unacc,Japan
+med,vhigh,3,2,big,low,unacc,South Korea
+high,med,4,more,big,med,acc,Japan
+med,vhigh,4,4,med,med,acc,South Korea
+high,high,2,4,big,low,unacc,United States
+med,vhigh,5more,more,small,med,unacc,China
+med,low,2,4,med,high,good,Japan
+low,high,3,more,small,high,acc,Japan
+vhigh,high,5more,4,med,high,unacc,South Korea
+med,vhigh,3,2,big,med,unacc,Japan
+high,low,4,2,small,high,unacc,Japan
+high,med,4,4,big,med,acc,China
+high,med,3,2,big,med,unacc,South Korea
+med,vhigh,4,4,med,high,acc,South Korea
+vhigh,high,3,4,small,high,unacc,Japan
+low,vhigh,4,more,small,med,unacc,France
+low,low,3,more,small,med,acc,United States
+low,low,2,more,small,low,unacc,Germany
+high,vhigh,4,2,med,low,unacc,Japan
+vhigh,med,2,more,big,med,acc,Japan
+med,low,5more,more,med,med,good,France
+med,med,2,4,small,med,acc,Japan
+low,vhigh,4,2,med,high,unacc,France
+vhigh,vhigh,3,4,big,high,unacc,Italy
+med,vhigh,2,2,big,high,unacc,Japan
+low,low,4,more,small,high,good,Germany
+med,high,5more,4,small,high,acc,Germany
+med,med,5more,2,med,med,unacc,South Korea
+high,high,5more,more,med,med,acc,Japan
+low,high,4,2,big,high,unacc,Italy
+med,low,3,4,big,high,vgood,United States
+med,high,4,more,small,med,unacc,South Korea
+low,low,3,2,small,high,unacc,China
+vhigh,low,3,2,big,med,unacc,China
+vhigh,high,5more,4,big,high,unacc,Germany
+high,vhigh,5more,more,small,low,unacc,Japan
+med,vhigh,3,2,med,low,unacc,South Korea
+low,low,3,more,med,high,vgood,South Korea
+vhigh,high,5more,more,med,high,unacc,United States
+med,low,5more,2,med,high,unacc,China
+med,med,5more,4,big,low,unacc,Japan
+vhigh,high,5more,2,small,low,unacc,China
+med,vhigh,4,2,med,high,unacc,Germany
+high,med,2,4,big,med,acc,Japan
+vhigh,high,3,more,med,high,unacc,Italy
+low,vhigh,2,4,big,low,unacc,China
+med,vhigh,4,more,med,high,acc,Germany
+low,med,5more,2,med,high,unacc,Italy
+med,high,4,more,med,high,acc,South Korea
+med,low,2,2,med,med,unacc,United States
+med,med,4,4,small,med,acc,Germany
+med,vhigh,5more,4,small,med,unacc,France
+vhigh,low,5more,2,med,high,unacc,Germany
+vhigh,med,2,4,med,med,unacc,South Korea
+high,high,3,4,big,med,acc,France
+high,high,5more,2,big,low,unacc,Germany
+vhigh,med,5more,more,small,low,unacc,South Korea
+high,high,4,2,med,low,unacc,United States
+low,low,4,2,small,high,unacc,South Korea
+high,vhigh,3,more,small,low,unacc,Japan
+vhigh,low,4,2,small,low,unacc,United States
+high,vhigh,3,4,big,high,unacc,Japan
+low,vhigh,5more,more,big,low,unacc,France
+med,med,2,4,small,low,unacc,Japan
+med,med,3,more,big,med,acc,United States
+med,vhigh,4,4,small,med,unacc,Germany
+high,low,3,4,big,med,acc,Italy
+med,high,4,4,big,low,unacc,Japan
+low,med,5more,2,small,high,unacc,Germany
+high,high,5more,more,small,low,unacc,South Korea
+med,vhigh,2,2,small,med,unacc,Germany
+high,high,4,more,small,med,unacc,Japan
+low,low,3,4,small,high,good,Germany
+vhigh,med,2,4,small,med,unacc,China
+low,high,5more,more,med,med,acc,Germany
+med,low,5more,2,big,med,unacc,United States
+low,high,4,more,med,low,unacc,Germany
+vhigh,vhigh,2,2,small,high,unacc,Germany
+low,vhigh,4,more,big,med,acc,United States
+med,med,4,4,big,low,unacc,Germany
+med,med,5more,more,small,high,acc,Germany
+low,low,3,more,med,low,unacc,France
+med,med,5more,4,small,high,acc,Japan
+vhigh,med,4,2,small,high,unacc,Italy
+med,vhigh,5more,2,med,low,unacc,China
+low,vhigh,2,more,small,low,unacc,China
+med,low,5more,4,med,med,good,Germany
+med,vhigh,4,2,med,low,unacc,Germany
+vhigh,med,4,more,big,low,unacc,Germany
+vhigh,low,3,4,big,low,unacc,South Korea
+med,high,5more,2,med,med,unacc,Japan
+high,high,4,2,small,low,unacc,South Korea
+med,low,5more,4,big,low,unacc,Italy
+low,vhigh,3,4,small,med,unacc,Japan
+high,vhigh,2,4,small,med,unacc,South Korea
+vhigh,med,5more,4,big,low,unacc,Germany
+low,low,5more,4,med,high,vgood,South Korea
+high,med,5more,4,small,low,unacc,France
+low,low,4,2,med,low,unacc,Japan
+low,med,2,4,big,low,unacc,United States
+vhigh,med,3,more,med,low,unacc,Germany
+low,vhigh,5more,2,small,low,unacc,South Korea
+high,low,3,4,small,low,unacc,South Korea
+low,vhigh,4,more,small,low,unacc,South Korea
+vhigh,high,4,more,med,low,unacc,Japan
+vhigh,low,2,4,med,low,unacc,Germany
+high,high,2,4,big,med,acc,Japan
+high,med,5more,2,small,high,unacc,Germany
+vhigh,low,2,more,small,med,unacc,France
+low,low,5more,4,big,high,vgood,South Korea
+vhigh,low,3,2,med,low,unacc,Japan
+med,vhigh,3,more,small,low,unacc,Japan
+low,med,5more,2,big,high,unacc,Germany
+vhigh,vhigh,5more,4,med,high,unacc,France
+med,low,4,more,med,med,good,Japan
+med,vhigh,2,4,small,high,acc,Japan
+high,low,5more,more,big,high,acc,Japan
+low,med,2,more,med,high,good,Germany
+vhigh,vhigh,4,2,small,med,unacc,Germany
+vhigh,vhigh,5more,4,small,high,unacc,Japan
+high,high,4,2,small,med,unacc,United States
+low,low,3,4,big,med,good,South Korea
+low,med,4,4,big,high,vgood,Japan
+vhigh,vhigh,3,more,small,low,unacc,Japan
+low,low,4,4,big,high,vgood,Germany
+low,high,5more,4,med,med,acc,France
