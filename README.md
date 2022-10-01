@@ -2,7 +2,7 @@
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/firatolcum?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/firatolcum) 
 
-# Codecademy Data Analytics <img src="https://raw.githubusercontent.com/firatolcum/Clarusway_Data_Analytics_Course/master/8-Certificates/Clarusway.webp" align="right" width="120" />
+# Codecademy Data Analytics <img src="https://github.com/firatolcum/Codecademy_Data_Analytics_Course/blob/master/16-Certificates/Codecademy.png" align="right" width="120" />
 
 ## 📣 About this Data Analytics Course
 Companies are looking for Data Scientists who can manage data, get results, and drive decision-making. Analytics is all about using data to answer questions, and this Career Path will teach you just that. You'll learn how to analyze data, build dashboards, and deliver impactful reports. Along the way, you'll build portfolio-worthy projects that will help you get job-ready.
