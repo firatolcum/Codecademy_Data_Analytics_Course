@@ -1,0 +1,78 @@
+,name,mfr,type,fiber,rating,shelf,vitamins,coupons,price
+0,100% Bran,Nestle,C,10.0,68.4,top,25,4,4.06
+1,100% Natural Bran,Quaker Oats,C,2.0,33.98,top,0,1,4.62
+2,All-Bran,Kelloggs,C,9.0,59.43,top,25,3,4.39
+3,All-Bran with Extra Fiber,Kelloggs,C,14.0,93.7,top,25,2,6.18
+4,Almond Delight,Ralston Purina,C,1.0,34.38,top,25,2,6.05
+5,Apple Cinnamon Cheerios,General Mills,C,1.5,29.51,bottom,25,2,4.96
+6,Apple Jacks,Kelloggs,C,1.0,33.17,middle,25,3,2.93
+7,Basic 4,General Mills,C,2.0,37.04,top,25,2,3.48
+8,Bran Chex,Ralston Purina,C,4.0,49.12,bottom,25,1,2.74
+9,Bran Flakes,Post,C,5.0,53.31,top,25,1,4.99
+10,Cap'n'Crunch,Quaker Oats,C,0.0,18.04,middle,25,3,5.5
+11,Cheerios,General Mills,C,2.0,50.76,bottom,25,4,6.12
+12,Cinnamon Toast Crunch,General Mills,C,0.0,19.82,middle,25,3,3.56
+13,Clusters,General Mills,C,2.0,40.4,top,25,1,6.23
+14,Cocoa Puffs,General Mills,C,0.0,22.74,middle,25,3,3.79
+15,Corn Chex,Ralston Purina,C,0.0,41.45,bottom,25,4,4.15
+16,Corn Flakes,Kelloggs,C,1.0,45.86,bottom,25,1,2.04
+17,Corn Pops,Kelloggs,C,1.0,35.78,middle,25,4,2.71
+18,Count Chocula,General Mills,C,0.0,22.4,middle,25,4,3.82
+19,Cracklin' Oat Bran,Kelloggs,C,4.0,40.45,top,25,3,3.98
+20,Cream of Wheat (Quick),Nestle,H,1.0,64.53,middle,0,1,6.23
+21,Crispix,Kelloggs,C,1.0,46.9,top,25,2,5.22
+22,Crispy Wheat & Raisins,General Mills,C,2.0,36.18,top,25,1,4.43
+23,Double Chex,Ralston Purina,C,1.0,44.33,top,25,2,5.82
+24,Froot Loops,Kelloggs,C,1.0,32.21,middle,25,3,5.65
+25,Frosted Flakes,Kelloggs,C,1.0,31.44,bottom,25,3,2.23
+26,Frosted Mini-Wheats,Kelloggs,C,3.0,58.35,middle,25,1,5.34
+27,"Fruit & Fibre Dates, Walnuts, and Oats",Post,C,5.0,40.92,top,25,3,3.64
+28,Fruitful Bran,Kelloggs,C,5.0,41.02,top,25,3,4.17
+29,Fruity Pebbles,Post,C,0.0,28.03,middle,25,4,5.01
+30,Golden Crisp,Post,C,0.0,35.25,bottom,25,3,3.85
+31,Golden Grahams,General Mills,C,0.0,23.8,middle,25,2,3.27
+32,Grape Nuts Flakes,Post,C,3.0,52.08,top,25,2,5.19
+33,Grape-Nuts,Post,C,3.0,53.37,top,25,4,4.16
+34,Great Grains Pecan,Post,C,3.0,45.81,top,25,1,5.97
+35,Honey Graham Ohs,Quaker Oats,C,1.0,21.87,middle,25,4,4.92
+36,Honey Nut Cheerios,General Mills,C,1.5,31.07,bottom,25,1,4.89
+37,Honey-comb,Post,C,0.0,28.74,bottom,25,2,4.03
+38,Just Right Crunchy  Nuggets,Kelloggs,C,1.0,36.52,top,100,4,5.98
+39,Just Right Fruit & Nut,Kelloggs,C,2.0,36.47,top,100,2,5.2
+40,Kix,General Mills,C,0.0,39.24,middle,25,1,2.16
+41,Life,Quaker Oats,C,2.0,45.33,middle,25,4,2.88
+42,Lucky Charms,General Mills,C,0.0,26.73,middle,25,2,5.92
+43,Maypo,American Home,H,0.0,54.85,middle,25,3,5.23
+44,"Muesli Raisins, Dates, & Almonds",Ralston Purina,C,3.0,37.14,top,25,2,6.09
+45,"Muesli Raisins, Peaches, & Pecans",Ralston Purina,C,3.0,34.14,top,25,3,4.13
+46,Mueslix Crispy Blend,Kelloggs,C,3.0,30.31,top,25,3,3.22
+47,Multi-Grain Cheerios,General Mills,C,2.0,40.11,bottom,25,3,5.49
+48,Nut&Honey Crunch,Kelloggs,C,0.0,29.92,middle,25,4,3.84
+49,Nutri-Grain Almond-Raisin,Kelloggs,C,3.0,40.69,top,25,3,3.99
+50,Nutri-grain Wheat,Kelloggs,C,3.0,59.64,top,25,3,5.6
+51,Oatmeal Raisin Crisp,General Mills,C,1.5,30.45,top,25,4,6.06
+52,Post Nat. Raisin Bran,Post,C,6.0,37.84,top,25,2,4.07
+53,Product 19,Kelloggs,C,1.0,41.5,top,100,1,3.92
+54,Puffed Rice,Quaker Oats,C,0.0,60.76,top,0,4,4.56
+55,Puffed Wheat,Quaker Oats,C,1.0,63.01,top,0,2,5.83
+56,Quaker Oat Squares,Quaker Oats,C,2.0,49.51,top,25,2,5.44
+57,Quaker Oatmeal,Quaker Oats,H,2.7,50.83,bottom,0,1,6.2
+58,Raisin Bran,Kelloggs,C,5.0,39.26,middle,25,4,2.55
+59,Raisin Nut Bran,General Mills,C,2.5,39.7,top,25,1,3.66
+60,Raisin Squares,Kelloggs,C,2.0,55.33,top,25,4,3.1
+61,Rice Chex,Ralston Purina,C,0.0,42.0,bottom,25,1,2.98
+62,Rice Krispies,Kelloggs,C,0.0,40.56,bottom,25,3,2.86
+63,Shredded Wheat,Nestle,C,3.0,68.24,bottom,0,3,4.94
+64,Shredded Wheat 'n'Bran,Nestle,C,4.0,74.47,bottom,0,1,6.04
+65,Shredded Wheat spoon size,Nestle,C,3.0,72.8,bottom,0,4,2.59
+66,Smacks,Kelloggs,C,1.0,31.23,middle,25,1,6.2
+67,Special K,Kelloggs,C,1.0,53.13,bottom,25,4,5.54
+68,Strawberry Fruit Wheats,Nestle,C,3.0,59.36,middle,25,2,2.17
+69,Total Corn Flakes,General Mills,C,0.0,38.84,top,100,2,3.38
+70,Total Raisin Bran,General Mills,C,4.0,28.59,top,100,1,5.29
+71,Total Whole Grain,General Mills,C,3.0,46.66,top,100,3,6.23
+72,Triples,General Mills,C,0.0,39.11,top,25,3,6.1
+73,Trix,General Mills,C,0.0,27.75,middle,25,1,3.17
+74,Wheat Chex,Ralston Purina,C,3.0,49.79,bottom,25,4,5.24
+75,Wheaties,General Mills,C,3.0,51.59,bottom,25,2,3.6
+76,Wheaties Honey Gold,General Mills,C,1.0,36.19,bottom,25,2,2.97
