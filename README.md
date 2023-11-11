@@ -143,8 +143,8 @@ There are 22 Modules in this Data Analytics Career Path:
 
 
 
-👉 [Click to go to my portfolio page.](https://firatolcum.social/)
+👉 [Click to go to my portfolio page.](https://firatolcum.com/)
 
 ---
-<p>&copy; 2022 Fırat Olçum </p>
+<p>&copy; 2023 Fırat Olçum </p>
 
